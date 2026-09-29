@@ -1,2 +1,6 @@
 # egrec
-Epistemic Recommendations for Latent Interest Discovery
+"There's Something About You": Epistemic Recommendations for Latent Interest Discovery
+
+Paper: doi.org/10.1145/3773078.3831822
+
+Code: github.com/egrec-paper/egrec, coming soon (pending release approval)
